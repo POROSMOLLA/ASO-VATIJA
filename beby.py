@@ -465,4 +465,6 @@ def auto():
     
     
     
-MOLLAVAI()
+
+
+Safraz()
